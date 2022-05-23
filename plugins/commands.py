@@ -43,7 +43,7 @@ async def start(client, message):
     if len(message.command) != 2:
         buttons = [[
             InlineKeyboardButton('🤩 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙶𝚁𝙾𝚄𝙿🍷', url=f'http://t.me/chat_official_sahil')
-            InlineKeyboardButton('🔥 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ❤️', url=f'http://t.me/sahil_official_here/13')
+            InlineKeyboardButton('🔥 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ❤️', url=f'http://t.me/sahil_official_here')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/itz_sahil_official')
@@ -90,7 +90,7 @@ async def start(client, message):
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
             InlineKeyboardButton('🤩 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙶𝚁𝙾𝚄𝙿🍷', url=f'http://t.me/chat_official_sahil')
-            InlineKeyboardButton('🔥 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ❤️', url=f'http://t.me/sahil_official_here/13')
+            InlineKeyboardButton('🔥 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ❤️', url=f'http://t.me/sahil_official_here')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/itz_sahil_official')
