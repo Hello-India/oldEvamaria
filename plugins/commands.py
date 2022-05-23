@@ -43,9 +43,10 @@ async def start(client, message):
     if len(message.command) != 2:
         buttons = [[
             InlineKeyboardButton('🤩 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙶𝚁𝙾𝚄𝙿🍷', url=f'http://t.me/chat_official_sahil')
+            InlineKeyboardButton('🔥 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ❤️', url=f'http://t.me/sahil_official_here/13')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Creator', url='https://t.me/sahil_official_here')
+            InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/itz_sahil_official')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
@@ -88,10 +89,11 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('🤩 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙶𝚁𝙾𝚄𝙿🍷', url=f'http://t.me/chat_official_sahil')
+            InlineKeyboardButton('🔥 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ❤️', url=f'http://t.me/sahil_official_here/13')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Creator', url='https://t.me/sahil_official_here')
+            InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/itz_sahil_official')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
