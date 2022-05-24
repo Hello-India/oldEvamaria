@@ -47,8 +47,8 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/itz_sahil_official')
             ],[
-            InlineKeyboardButton('⚠️ Stats', callback_data='stats'),
-            InlineKeyboardButton('😊 About', callback_data='stats')
+            InlineKeyboardButton('⚠️ Stats', url='https://t.me/chat_official_sahil'),
+            InlineKeyboardButton('⚡ Source ', url='https://t.me/itz_sahil_official')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
