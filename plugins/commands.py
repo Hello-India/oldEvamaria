@@ -94,7 +94,7 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/itz_sahil_official')
             ],[
-            InlineKeyboardButton('🤩 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙶𝚁𝙾𝚄𝙿🍷', url='https://t.me/chat_official_sahil'),
+            InlineKeyboardButton('⚠️ Stats', callback_data='stats'),
             InlineKeyboardButton('😊 About', callback_data='stats')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
