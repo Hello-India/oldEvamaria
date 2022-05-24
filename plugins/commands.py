@@ -26,7 +26,7 @@ async def start(client, message):
                 InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/itz_sahil_official')
             ],
             [
-                InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
+                InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=stats"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -49,7 +49,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🤩 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙶𝚁𝙾𝚄𝙿🍷', url='https://t.me/chat_official_sahil')
 '),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('😊 About', callback_data='stats')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -94,8 +94,8 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/itz_sahil_official')
             ],[
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('🤩 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙶𝚁𝙾𝚄𝙿🍷', url='https://t.me/chat_official_sahil'),
+            InlineKeyboardButton('😊 About', callback_data='stats')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
