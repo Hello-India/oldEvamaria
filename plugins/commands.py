@@ -48,7 +48,6 @@ async def start(client, message):
             InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/itz_sahil_official')
             ],[
             InlineKeyboardButton('⚠️ Stats', callback_data='stats'),
-'),
             InlineKeyboardButton('😊 About', callback_data='stats')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
