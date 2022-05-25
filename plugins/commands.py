@@ -49,6 +49,8 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔥 𝙶𝚁𝙾𝚄𝙿', url='https://t.me/chat_official_sahil'),
             InlineKeyboardButton('⚡ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 ', url='https://t.me/+2I3AXB4_Q2BiYWFl')
+            ],[
+            InlineKeyboardButton('🔥 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 2', url='https://t.me/+kSmEY46pt7NmYTJl'),              
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
