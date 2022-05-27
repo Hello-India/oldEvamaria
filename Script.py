@@ -94,13 +94,20 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     STATUS_TXT = """𝙷𝚒𝚒..
-𝙸 𝚊𝚖 𝚊 𝚜𝚞𝚙𝚎𝚛 𝙼𝚘𝚟𝚒𝚎 𝙵𝚒𝚕𝚝𝚎𝚛 𝚋𝚘𝚝 𝙱𝚢 [𝚂𝙰𝙷𝙸𝙻 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻](https://t.me/itz_sahil_official).🍷
+𝙸 𝚊𝚖 𝚊 𝚜𝚞𝚙𝚎𝚛 𝙼𝚘𝚟𝚒𝚎 𝙵𝚒𝚕𝚝𝚎𝚛 𝚋𝚘𝚝 𝙱𝚢 [𝚂𝙰𝙷𝙸𝙻 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻](https://t.me/sahil_official_here/13).🍷
 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙸𝚗𝚍𝚎𝚡𝚒𝚗𝚐 𝟷𝟶 𝙲𝚑𝚊𝚗𝚗𝚎𝚕𝚜.🔥
+
 𝚂𝚘 𝚃𝚘𝚝𝚊𝚕 𝙵𝚒𝚕𝚎𝚜 𝚊𝚛𝚎 𝚐𝚘𝚗𝚗𝚊 𝚝𝚘 𝚋𝚎 𝟷𝟶 𝚝𝚒𝚖𝚎𝚜 𝚊𝚏𝚝𝚎𝚛 𝚜𝚘𝚖𝚎 𝚍𝚊𝚢𝚜..😎
+
+
 🗂️ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
+
 👤 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
+
 🗨️ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
+
 🗄️ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
+
 💽 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
