@@ -1,12 +1,13 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>😌, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 & 𝚆𝙴𝙱 𝚂𝙴𝚁𝙸𝙴𝚂,𝚂𝙾 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙶𝚁𝙾𝚄𝙿 & 𝙴𝙽𝙹𝙾𝚈 𝙰𝙻𝙻 𝙼𝙾𝚅𝙸𝙴𝚂 𝙰𝙽𝙳 𝚆𝙴𝙱 𝚂𝙷𝙾𝚆𝚂.❤️
-💥 𝙼𝚢 𝙶𝚛𝚘𝚞𝚙 :- @chat_official_sahil ⚠️
-😎 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛 :- @itz_sahil_official 🌟"""
+
+💥 𝙼𝚢 𝙶𝚛𝚘𝚞𝚙 :- @AAPRODUCTIONS ⚠️
+😎 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛 :- @THESavageBOe2 🌟"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/sahil_official_here>Team Sahil Official</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/THESavageBOe2>Satyam Official</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -17,7 +18,7 @@ class script(object):
 - Source - @itz_sahil_official  
 
 <b>DEVS:</b>
-- <a href=https://t.me/chat_official_sahil>Team Sahil</a>"""
+- <a href=https://t.me/AAPRODUCTIONS>My Group</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -94,20 +95,12 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     STATUS_TXT = """𝙷𝚒𝚒..
-𝙸 𝚊𝚖 𝚊 𝚜𝚞𝚙𝚎𝚛 𝙼𝚘𝚟𝚒𝚎 𝙵𝚒𝚕𝚝𝚎𝚛 𝚋𝚘𝚝 𝙱𝚢 [𝚂𝙰𝙷𝙸𝙻 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻](https://t.me/sahil_official_here/13).🍷
-𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙸𝚗𝚍𝚎𝚡𝚒𝚗𝚐 𝟷𝟶 𝙲𝚑𝚊𝚗𝚗𝚎𝚕𝚜.🔥
-
-𝚂𝚘 𝚃𝚘𝚝𝚊𝚕 𝙵𝚒𝚕𝚎𝚜 𝚊𝚛𝚎 𝚐𝚘𝚗𝚗𝚊 𝚝𝚘 𝚋𝚎 𝟷𝟶 𝚝𝚒𝚖𝚎𝚜 𝚊𝚏𝚝𝚎𝚛 𝚜𝚘𝚖𝚎 𝚍𝚊𝚢𝚜..😎
-
+𝙸 𝚊𝚖 𝚊 𝚜𝚞𝚙𝚎𝚛 𝙼𝚘𝚟𝚒𝚎 𝙵𝚒𝚕𝚝𝚎𝚛 𝚋𝚘𝚝 𝙱𝚢 @THESavageBOe2.🍷
 
 🗂️ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-
 👤 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
-
 🗨️ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-
 🗄️ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-
 💽 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
