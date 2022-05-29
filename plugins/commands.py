@@ -45,7 +45,9 @@ async def start(client, message):
             InlineKeyboardButton('🥳 爪ㄚ Ꮆ尺ㄖㄩ卩 🔥', url=f'https://t.me/AAPRODUCTIONS')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/THESavageBOe2')      
+            InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/THESavageBOe2')    
+            ],[
+            InlineKeyboardButton('✨ 𝐏𝐀𝐈𝐃 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 👈', url='https://t.me/THESavageBOe2')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
