@@ -3,7 +3,9 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>😌, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 & 𝚆𝙴𝙱 𝚂𝙴𝚁𝙸𝙴𝚂,𝚂𝙾 𝙹𝙾𝙸𝙽 𝙼𝚈 𝙶𝚁𝙾𝚄𝙿 & 𝙴𝙽𝙹𝙾𝚈 𝙰𝙻𝙻 𝙼𝙾𝚅𝙸𝙴𝚂 𝙰𝙽𝙳 𝚆𝙴𝙱 𝚂𝙷𝙾𝚆𝚂.❤️
 
 💥 𝙼𝚢 𝙶𝚛𝚘𝚞𝚙 :- @AAPRODUCTIONS ⚠️
-😎 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛 :- @THESavageBOe2 🌟"""
+😎 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛 :- @THESavageBOe2 🌟
+
+[©𝓼𝓸𝓾𝓻𝓬𝓮™](https://t.me/itz_sahil_official)"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
