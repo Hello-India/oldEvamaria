@@ -4,7 +4,7 @@ class script(object):
 
 💥 𝙼𝚢 𝙶𝚛𝚘𝚞𝚙 :- @AAPRODUCTIONS ⚠️
 😎 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛 :- @THESavageBOe2 🌟
-[©𝓼𝓸𝓾𝓻𝓬𝓮™](https://t.me/itz_sahil_official)"""
+<a href=https://t.me/itz_sahil_official>©𝓼𝓸𝓾𝓻𝓬𝓮™</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
