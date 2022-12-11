@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/THESavageBOe2')
+                InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/itz_sahil_official')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=stats"),
@@ -42,12 +42,17 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('🥳 爪ㄚ Ꮆ尺ㄖㄩ卩 🔥', url=f'https://t.me/AAPRODUCTIONS')
+            InlineKeyboardButton('🥳𝙹𝙾𝙸𝙽 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻𝚂❤️', url=f'https://t.me/sahil_official_here/13')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/THESavageBOe2')    
+            InlineKeyboardButton('🌟 𝙾𝚠𝚗𝚎𝚛 𝙷𝚎𝚛𝚎 😉', url='https://t.me/itz_sahil_official')    
             ],[
-            InlineKeyboardButton('✨ 𝐏𝐀𝐈𝐃 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 👈', url='https://t.me/THESavageBOe2')
+            InlineKeyboardButton('🎀 𝙶𝚁𝙾𝚄𝙿 🧊', url='https://t.me/chat_official_sahil'),
+            InlineKeyboardButton('🍻 𝙼𝚢 𝚄𝚙𝚕𝚘𝚊𝚍𝚜 🎁', url='https://t.me/sahil_official_links')
+            ],[
+            InlineKeyboardButton('🥃 𝙼𝙾𝚅𝙸𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 🔥', url='https://t.me/+nzr1sVt4MAhlOGY1'),
+            ],[
+            InlineKeyboardButton('🥃 𝚂𝙴𝚁𝙸𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 🔥', url='https://t.me/+X7Jh5m_URvE4OTdl')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
